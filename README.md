@@ -1,6 +1,6 @@
 # Halo semua! 
 
-Perkenalkan nama saya **Nazaludin Nur Rahmat**.<br>
+Perkenalkan nama saya **Nazaludin**.<br>
 
 Saya seorang **Web Developer*.<br>
 
