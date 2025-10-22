@@ -1,20 +1,3 @@
-# Halo semua! 
-
-Perkenalkan nama saya **Nazaludin**.<br>
-nazaludin
-
-Saya seorang **Web Developer**.<br>
-
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/nazaludin-nur-rahmat/).
-
-<p align="left">
-<a href="https://github.com/Nazaludin">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&layout=compact&theme=algolia"/>
-</a>
-</p>
-
-
 # 👋 Hi there, I'm Nazaludin
 
 💻 **Fullstack Programmer | Web Developer | Tech Enthusiast**  
@@ -57,15 +40,16 @@ Berpengalaman membangun sistem berbasis **React**, **Node.js**, dan **FastAPI**,
 | **Career Projection Dashboard** | Dashboard proyeksi karier interaktif berbasis skill dan tren pekerjaan. | React, FastAPI, JWT Auth |
 | **Job Portal Web App** | Platform lowongan kerja dengan sistem login & rekomendasi dinamis. | Node.js, Express, MySQL, React |
 
-➡️ Lihat semua proyek saya di [Repositories](https://github.com/your-username?tab=repositories)
+➡️ Lihat semua proyek saya di [Repositories](https://github.com/nazaludinnr?tab=repositories)
 
 ---
 
-## 📈 GitHub Stats
+## ✨ Profile Summary
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="Nazaludin's GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" alt="Top Languages" height="165">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile?username=nazaludinnr&theme=algolia" alt="Profile Summary" />
+    
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nazaludinnr&theme=algolia" alt="Top Language by Commit" />
 </p>
 
 ---
@@ -78,9 +62,9 @@ Berpengalaman membangun sistem berbasis **React**, **Node.js**, dan **FastAPI**,
 ---
 
 ## 📫 Let's Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin)
-- 🌐 [Portfolio](https://your-portfolio-link.com)
-- 📧 Email: yourname@email.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/nazaludin-nur-rahmat/)
+- 🌐 [Portfolio]()
+- 📧 Email: nazaludin.nr@gmail.com
 
 ---
 
