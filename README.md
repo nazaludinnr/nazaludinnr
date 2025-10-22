@@ -64,7 +64,6 @@ Berpengalaman membangun sistem berbasis **React**, **Node.js**, dan **FastAPI**,
 ## 📫 Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/nazaludin-nur-rahmat/)
 - 🌐 [Portfolio]()
-- 📧 Email: nazaludin.nr@gmail.com
 
 ---
 
